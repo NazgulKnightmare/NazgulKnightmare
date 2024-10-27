@@ -2,7 +2,7 @@
 
 <h2> Cybersecurity Projects:</h2>
 
-- [Rock, Paper, Scissors](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Rock, Paper, Scissors](https://github.com/NazgulKnightmare/Rock-Paper-Scissors)
 - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
