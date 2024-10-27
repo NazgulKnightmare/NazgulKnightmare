@@ -2,9 +2,10 @@
 
 <h2> Cybersecurity Projects:</h2>
 
-- [Rock, Paper, Scissors](https://github.com/NazgulKnightmare/Rock-Paper-Scissors)
-- [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
-
+- <b>PowerShell</b>
+  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Java</b>
+  - [Rock, Paper, Scissors](https://github.com/NazgulKnightmare/Rock-Paper-Scissors)
 
 <h2> Connect with me:</h2>
 
