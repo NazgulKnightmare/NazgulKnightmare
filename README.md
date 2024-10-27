@@ -3,7 +3,7 @@
 <h2> Cybersecurity Projects:</h2>
 
 - <b>PowerShell</b>
-  - [Active Directory Bulk User Creation Home Lab]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/NazgulKnightmare/Active-Directory-Bulk-User-Creation-Home-Lab))
+  - [Active Directory Bulk User Creation Home Lab](https://github.com/NazgulKnightmare/Active-Directory-Bulk-User-Creation-Home-Lab)
 - <b>Java</b>
   - [Rock, Paper, Scissors](https://github.com/NazgulKnightmare/Rock-Paper-Scissors)
 
